@@ -11,8 +11,11 @@ je linkiem z pozycji ścieżki w SkillBridge — bezpośrednio w Google Colab.
    przy każdym notebooku z GitHuba; nasze zawierają wyłącznie widoczny kod.
 3. Od L0.2 wzwyż: zrób własną kopię (**Plik → Zapisz kopię na Dysku**) i pracuj
    w niej.
-4. Ostatnia komórka każdego notebooka to **pieczątka**: wpisz w niej kod atomu
-   z SkillBridge, a wypisany token wklej z powrotem w SkillBridge.
+4. Notebooki **labów** (np. L0.1–L0.4, F1.4, F1.7) kończą się komórką
+   **pieczątki**: wpisz w niej kod atomu z SkillBridge, a wypisany token wklej
+   z powrotem w SkillBridge. Notebooki **towarzyszące ćwiczeń** (od F1) nie
+   mają pieczątki — to brudnopisy do teorii; atom zaliczasz pytaniami
+   w SkillBridge.
 
 ## Dla utrzymujących
 
