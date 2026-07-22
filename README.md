@@ -26,5 +26,12 @@ pilnują ich testy kontraktowe (m.in. parytet pieczątki Python↔TS i identyczn
 wspólnego bloku tokenu we wszystkich notebookach). Zmiany robi się tam,
 a tu wypycha zbudowane `.ipynb`.
 
+📐 **Katalog `sonda/` to NIE materiał dla studenta.** `sonda/sonda-srodowiska.ipynb`
+jest narzędziem utrzymania: mierzy wersje bibliotek i komunikaty błędów, które
+Colab realnie daje, żeby treść kursu nie cytowała nieaktualnych rzeczy. Leży tu
+tylko dlatego, że Colab otwiera notebooki wyłącznie z publicznych repozytoriów.
+Nie ma pieczątki, nie wystawia tokenu, w ścieżce nauki się nie pojawia
+(runbook: `docs/runbooks/sonda-srodowiska-colab.md` w repo aplikacji).
+
 © SkillBridge / Grupa Merito. Materiały edukacyjne ścieżki SkillBridge —
 do użytku w ramach platformy.
